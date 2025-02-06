@@ -1,0 +1,4 @@
+/root/Bincom_internship/Bincom_internship/obj/Debug/net8.0/Bincom_internship.GeneratedMSBuildEditorConfig.editorconfig
+/root/Bincom_internship/Bincom_internship/obj/Debug/net8.0/Bincom_internship.AssemblyInfoInputs.cache
+/root/Bincom_internship/Bincom_internship/obj/Debug/net8.0/Bincom_internship.AssemblyInfo.cs
+/root/Bincom_internship/Bincom_internship/obj/Debug/net8.0/Bincom_internship.csproj.CoreCompileInputs.cache
